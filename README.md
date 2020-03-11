@@ -1,4 +1,4 @@
-# Credict_score
+# Credit_score
 Hackathon of Credict_Score
 Had partcipated in Hackathon that was predicting credict score
 Various algorithms had been triedout
